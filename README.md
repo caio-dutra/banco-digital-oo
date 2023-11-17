@@ -1,3 +1,27 @@
+🇺🇸
+# Digital Bank with Java and Object Orientation
+
+* A bank offers its customers two types of accounts (current and savings), which have deposit, withdrawal and transfer functions (between the institution's own accounts).
+
+### Abstraction
+
+Ability to concentrate on the essential aspects of a domain, ignoring less important or incidental features. In this context, objects are abstractions of entities existing in the domain in question.
+
+### Encapsulation
+
+Encapsulating means hiding the implementation of objects, thus creating more concise and easier to use/understand user interfaces. Encapsulation mainly favors two aspects of a system: maintenance and evolution.
+
+### Heritage
+
+Allows you to define a child class that reuses (inherits), extends, or modifies the behavior of a parent class. The class whose members are inherited is called the base class. The class that inherits the members of the base class is called a derived class.
+
+### Polymorphism
+
+The ability of an object to be referenced in various ways, that is, the ability to treat objects created from specific classes as objects of a generic class. Be careful, polymorphism does not mean that the object keeps transforming, quite the opposite, an object is born of a type and dies of that type, what can change is the way we refer to it.
+​
+
+
+🇧🇷
 # Banco Digital com Java e Orientação a Objetos
 
 * Um banco oferece aos seus clientes dois tipos de contas (corrente e poupança), as quais possuem as funcionalidades de depósito, saque e transferência (entre contas da própria instituição).
